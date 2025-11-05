@@ -5,7 +5,6 @@
 
 # testing
 # Convex generated files
-convex/_generated/
 # next.js
 /.next/
 /out/
