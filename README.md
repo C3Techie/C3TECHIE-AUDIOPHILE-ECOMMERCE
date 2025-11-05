@@ -50,6 +50,9 @@ npm run dev
 ## Deployment
 
 ### Vercel (Recommended)
+
+Live deployed app: [https://c3-techie-audiophile-ecommerce.vercel.app/](https://c3-techie-audiophile-ecommerce.vercel.app/)
+
 1. Push your code to GitHub
 2. Go to [vercel.com](https://vercel.com/) and import your repo
 3. Add your environment variables in the Vercel dashboard
