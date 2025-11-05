@@ -1,5 +1,35 @@
 # C3Techie-Audiophile Ecommerce
 
+## Stage 3a Task Resources
+
+- **Figma (Pixel-perfect source of truth):**
+  [Audiophile E-commerce Website](https://www.figma.com/design/jfDxXzGw2lfyJOgFGbJOW4/audiophile-ecommerce-website?node-id=0-1&p=f)
+
+- **Study Material:**
+  - [React Official Docs](https://react.dev/)
+  - [Next.js Docs](https://nextjs.org/docs)
+  - [Convex Backend Docs](https://docs.convex.dev/)
+  - [Forms & Validation in React](https://react.dev/learn/forms)
+  - [Responsive Layouts (CSS-Tricks)](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)
+  - Sending Emails:
+    - [Resend API](https://resend.com/)
+    - [Nodemailer](https://nodemailer.com/about/)
+
+## Stage 3a Acceptance Criteria & Submission Checklist
+
+- Pixel-perfect build: Matches Figma across all screen sizes
+- Checkout works end-to-end: Orders saved in Convex, confirmation email sent
+- Validation & edge cases handled: All error states clearly surfaced
+- Order confirmation page: Displays full order summary
+- Email template: Responsive, personalized, and successfully delivered
+- Accessibility: Forms, navigation, and errors must be screen-reader friendly
+- Code quality: Clean, modular, and well-documented
+
+- **Submission:**
+  - Live deployed app link
+  - GitHub repo with code + setup instructions
+  - Example confirmation email template (HTML)
+
 A pixel-perfect, full-stack e-commerce site built with Next.js, Convex, and Resend for the HNG Internship Stage 3a Frontend Task.
 
 ## Features
