@@ -1,6 +1,7 @@
 import defaultTheme from "tailwindcss/defaultTheme.js";
 import plugin from "tailwindcss/plugin.js";
 
+
 /** @type {import('tailwindcss').Config} */
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {

@@ -1,5 +1,27 @@
 # C3Techie-Audiophile Ecommerce
 
+## Project Preview
+
+### Desktop
+
+<p align="center">
+  <img src="public/assets/preview/Screenshot (73).png" alt="Desktop Preview 1" width="600" />
+  <img src="public/assets/preview/Screenshot (74).png" alt="Desktop Preview 2" width="600" />
+  <img src="public/assets/preview/Screenshot (75).png" alt="Desktop Preview 3" width="600" />
+  <img src="public/assets/preview/Screenshot (76).png" alt="Desktop Preview 4" width="600" />
+  <img src="public/assets/preview/Screenshot (77).png" alt="Desktop Preview 5" width="600" />
+</p>
+
+### Mobile
+
+<p align="center">
+  <img src="public/assets/preview/1000919257.jpg" alt="Mobile Preview 1" width="250" />
+  <img src="public/assets/preview/1000919258.jpg" alt="Mobile Preview 2" width="250" />
+  <img src="public/assets/preview/1000919260.jpg" alt="Mobile Preview 3" width="250" />
+  <img src="public/assets/preview/1000919266.jpg" alt="Mobile Preview 4" width="250" />
+  <img src="public/assets/preview/1000919267.jpg" alt="Mobile Preview 5" width="250" />
+</p>
+
 ## Stage 3a Task Resources
 
 - **Figma (Pixel-perfect source of truth):**
